@@ -1,4 +1,4 @@
-package qa.dar.base.page;
+package qa.dwr.base.page;
 
 import java.io.FileInputStream;
 import java.io.FileNotFoundException;
@@ -18,7 +18,8 @@ import org.openqa.selenium.firefox.FirefoxDriver;
 import org.openqa.selenium.ie.InternetExplorerDriver;
 import org.openqa.selenium.ie.InternetExplorerOptions;
 import org.openqa.selenium.support.events.EventFiringWebDriver;
-import qa.dar.utility.SeleniumUtil;
+
+import qa.dwr.utility.SeleniumUtil;
 
 public class BaseTest {
 

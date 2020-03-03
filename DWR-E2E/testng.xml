@@ -3,7 +3,7 @@
 <suite name="Automation Test Suite">
 	<test name="Dwr Automation test">
 		<classes>
-			<class name="qa.dar.my.runner.MyRunnerTest" />
+			<class name="qa.dwr.my.runner.MyRunnerTest" />
 		</classes>
 	</test>
 </suite>

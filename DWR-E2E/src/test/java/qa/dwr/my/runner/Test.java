@@ -1,4 +1,4 @@
-package qa.dar.my.runner;
+package qa.dwr.my.runner;
 
 import java.util.concurrent.TimeUnit;
 

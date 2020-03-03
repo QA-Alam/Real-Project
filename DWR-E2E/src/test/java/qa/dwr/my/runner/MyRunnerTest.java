@@ -1,11 +1,11 @@
-package qa.dar.my.runner;
+package qa.dwr.my.runner;
 
 
 import cucumber.api.CucumberOptions;
 import cucumber.api.testng.AbstractTestNGCucumberTests;
 
 @CucumberOptions(features = { "Features" }, 
-       glue = { "qa.dar.stepdefinition" }, 
+       glue = { "qa.dwr.stepdefinition" }, 
        plugin = {"com.cucumber.listener.ExtentCucumberFormatter:target/cucumber-reports/report.html", "pretty",
 		"json:target/cucumber-reports/cucumber.json" }, 
        monochrome = true, 

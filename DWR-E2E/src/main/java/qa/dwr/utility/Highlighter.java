@@ -1,4 +1,4 @@
-package qa.dar.utility;
+package qa.dwr.utility;
 
 import org.openqa.selenium.JavascriptExecutor;
 import org.openqa.selenium.WebDriver;

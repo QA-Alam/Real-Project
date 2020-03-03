@@ -1,4 +1,4 @@
-package qa.dar.utility;
+package qa.dwr.utility;
 
 import java.io.File;
 import java.io.FileInputStream;
